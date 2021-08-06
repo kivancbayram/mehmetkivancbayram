@@ -1,0 +1,25 @@
+{
+  "name": "mehmet_kivanc_bayram",
+  "version": "1.0.0",
+  "description": "Demo ns\b\b\bnstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kivanc": "echo \"My name is Mehmet Kivanc Bayram\""
+  },
+  "keywords": [
+    "demonstration",
+    "packe\bage"
+  ],
+  "author": "Mehmet k\bKivanc \b\b\b\b\b\b\bKıvanç Bayram \b",
+  "license": "ISC",
+  "dependencies":{
+    "mongoose":"^5.3.4",
+    "nodemailer":"^4.6.8",
+    "simple-is":"^0.2.0"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/kivancbayram/mehmetkivancbayram.git"
+  }
+}
